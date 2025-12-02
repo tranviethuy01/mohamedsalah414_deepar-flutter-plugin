@@ -25,7 +25,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.git.tranviethuy.mohamedsalah414_deepar-flutter-plugin"
+    namespace "com.git.tranviethuy.mohamedsalah414_deepar_flutter_plugin"
     compileSdkVersion 31
 
     compileOptions {
